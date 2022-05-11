@@ -1,4 +1,4 @@
-# CSE438 Project BRACU
+# CSE438 BRACU
 
 It is a university project for Applied Data Science course. 
 
@@ -7,13 +7,13 @@ It is a university project for Applied Data Science course.
 [Priya Saha](https://sahapriya.com/)
 
 
-## Project Name: Bangla Text Sentiment Analysis
+## Final Project Name: Bangla Text Sentiment Analysis
 
 ## What have we done:
 * To be updated
 
 ## This project consists of:
 * Assignments
-* Dataset used for the project
-* Colab file of the project
+* Dataset used for the assignments and project
+* Colab file of the final project
 
