@@ -10,10 +10,11 @@ It is a university project for Applied Data Science course.
 ## Final Project Name: Bangla Text Sentiment Analysis
 
 ## What have we done:
-* To be updated
+* Proposed a low-cost CNN based approach with 83% accuracy which is almost 2% higher than state-of-the-art approaches. 
 
 ## This project consists of:
 * Assignments
 * Dataset used for the assignments and project
-* Colab file of the final project
+* ipynb file of the final project
+* Final Project Presentation: https://docs.google.com/presentation/d/1-X5mgMBr-3OUNaaChIXKpfCovw3rOX1QMTTkaJDXnZ8/edit?usp=sharing
 
