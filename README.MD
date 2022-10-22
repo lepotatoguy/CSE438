@@ -4,7 +4,7 @@ It is a university project for Applied Data Science course.
 
 ### Group Members:
 [Joyanta J. Mondal](https://joyantamondal.com/)
-[Priya Saha](https://sahapriya.com/)
+[Priya Saha](https://github.com/Priya-lovelace)
 
 
 ## Final Project Name: Analyzing Bangla Text Sentiment through Leveraging Limited-Resource Convolutional Neural Network
